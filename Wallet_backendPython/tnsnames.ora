@@ -1,0 +1,12 @@
+backendpython_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=gd064c22e16b4ab_backendpython_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+backendpython_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=gd064c22e16b4ab_backendpython_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+backendpython_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=gd064c22e16b4ab_backendpython_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+backendpython_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=gd064c22e16b4ab_backendpython_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+backendpython_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=gd064c22e16b4ab_backendpython_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
